@@ -1,0 +1,2 @@
+# Chatbot-sederhana-yang-diintegrasikan-dengan-AI-seperti-chatgpt-deepseek-gemini-ollama
+Buat Chatbot sederhana yang diintegrasikan dengan AI seperti chatgpt, deepseek, gemini, ollama, atau lainnya. ‎- desain UI bebas ‎ ‎Ketentuan pengerjaan: ‎- Durasi pengerjaan 24 jam sejak arahan pretest dikirim di email ‎- Upload file hasil tes ke Github dan berikan link repositori kedua tes tsb (beri nama file dan panduan penggunaan file anda)
